@@ -1,0 +1,4 @@
+ollama
+fastapi
+psycopg2
+pygithub
